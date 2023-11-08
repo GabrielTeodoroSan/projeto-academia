@@ -15,7 +15,7 @@ Esta api centraliza as operações de controle de acesso em uma academia de cond
 
 Primeiramente baixe o projeto em sua máquina, garantindo também que você possua o python 3.10.12
 
-`git clone blabla`
+`git clone https://github.com/GabrielTeodoroSan/projeto-academia`
 
 Agora crie um ambiente virtualizado:
 
@@ -38,4 +38,4 @@ Finalmente, rode a aplicação com o seguinte comando.
 
 `uvicorn main:app --reload`
 
-![Isso é um meme](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Ffabiogiga-dan%25C3%25A7ando-dancing-maromba-growth-gif-13517147745361849470&psig=AOvVaw1nGhep1WG8GH8llBPI6LAm&ust=1699552847961000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDB9vD9tIIDFQAAAAAdAAAAABBX)
+![Isso é um meme](./fabiogiga-dançando.gif.crdownload)
